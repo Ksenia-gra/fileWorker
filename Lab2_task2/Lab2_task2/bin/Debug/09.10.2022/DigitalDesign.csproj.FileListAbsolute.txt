@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.exe.config
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.exe
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.pdb
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign_MarkupCompile.cache
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign_MarkupCompile.lref
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.g.resources
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.Properties.Resources.resources
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.exe
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.pdb
+\\Mac\Home\Desktop\3 курс\Тестовые задания(работа)\DigitalDesign\DigitalDesign\obj\Debug\App.baml
